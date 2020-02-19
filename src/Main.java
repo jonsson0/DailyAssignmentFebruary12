@@ -4,6 +4,7 @@ public class Main {
 
         System.out.println(add(8,8));
 
+        System.out.println("test");
 
     }
 
